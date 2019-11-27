@@ -6,4 +6,4 @@ Objective is to implement an algorithm which could develop a simple code to obta
 
 This program is written in Qt (4.8)/C++, target programming language is brainfuck (https://en.wikipedia.org/wiki/Brainfuck).
 
-Population size, mutation rate, crossover, selection methods be modified by a simple GUI.
+Population size, mutation rate, crossover, selection methods can be modified in the app.
